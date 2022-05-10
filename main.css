@@ -1,0 +1,29 @@
+/*Create a selector for the page body. Eliminate the left and right margins and give it a background color of #F9F9F9*/
+
+/*Style the div that's class is "article." For contrast, give it a background color of white. The widest it can be is 930 pixels. Add some padding on the left and right, then a 1-pixel border of #DFDFDF*/
+
+/*---------STORY TOP-----------*/
+
+/*Let's have the story top div be narrower: a max width of 800 pixels. Use margins to have it right justified, and set the font to Tahoma.*/
+
+/*The headline should have a size of 35 pixels and a smaller than default margin on the bottom (try something like 15 pixels).*/
+
+/*Our story has a timestamp – make the text smaller (12px) and have the text be gray (#767676) instead of black.*/
+
+/*We're going to do a simplified byline: bigger than the timestamp at 14 pixels, make it bold and give it a color of #5076b8*/
+
+/*---------LEAD IMAGE-----------*/
+
+/*We want this div holding our photo and caption combination to have the same width, margins and alignment as the story top above. This should be a copy/paste job for style properties.*/
+
+/*If we don't set our image's width to 100%, it could overrun the div and look massive.*/
+
+/*Caption should be the same color and size as the timestamp above. Instead of Tahoma as the font, use Arial. Also: give it a small margin at the top, or else it will be way below the image. Caption will be even narrower: 700 pixels max. Finally: adjust the "line-height" to 20 pixels, which will add some space between the lines of text.*/
+
+/*---------STORY TEXT-----------*/
+
+/*We're going to use a nice serif Georgia font here that's 18 pixels. Again, we're going to use the same max width, as the divs above. Adjust the line height here so that the story copy doesn't seem too crowded together.*/
+
+/*Like our caption, the paragraphs within the story text div are going to have a max width of 700 pixels. (How can you select only paragraph elements within this div?)*/
+
+/*Whew, we're finally to the subheads for this piece. Make them the samefont as the story top and 22 pixels in size. They should also have the same max width as the story paragraphs*/
